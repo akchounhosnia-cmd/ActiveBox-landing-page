@@ -27,3 +27,6 @@ The project focuses on clean layout structure, responsive design, and profession
 1. Download or clone the repository.
 2. Open the project folder.
 3. Open index.html in your browser.
+https://github.com/akchounhosnia-cmd/ActiveBox-landing-page/blob/9315d2133228517c9615e574ede19a28ea6738ed/project-homepage.png.png
+
+
