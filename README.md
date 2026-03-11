@@ -28,6 +28,6 @@ The project focuses on clean layout structure, responsive design, and profession
 2. Open the project folder.
 3. Open index.html in your browser.
 ## Screenshot
-https://github.com/akchounhosnia-cmd/ActiveBox-landing-page/blob/9315d2133228517c9615e574ede19a28ea6738ed/project-homepage.png.png
-https://github.com/akchounhosnia-cmd/ActiveBox-landing-page/blob/b0a5b14594d4a926537bccc3874fabcfb72ae481/project-homepage-2.png.png
+![ActiveBox landing page](project-homepage.png.png)
+![ActiveBox landing page](project-homepage-2.png.png)
 
